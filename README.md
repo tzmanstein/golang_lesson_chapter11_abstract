@@ -1,0 +1,1 @@
+# golang_lesson_chapter11_abstract
